@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\week1">
+      <UniqueIdentifier>{5d25ce72-c199-475f-ad28-c1342d4730fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\week2">
+      <UniqueIdentifier>{ec7a4544-aa2a-4caa-bd56-032232aadb65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\week3">
+      <UniqueIdentifier>{9c69ee3f-a8d3-4381-a79e-813be489d8c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\week4">
+      <UniqueIdentifier>{d6681bbc-2bfe-4eaa-a444-bdfc6d49a6db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\week5">
+      <UniqueIdentifier>{b999e6f0-641d-4cd0-a25d-9066652f6076}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="p1.c">
+      <Filter>소스 파일\week1</Filter>
+    </ClCompile>
+    <ClCompile Include="p2.c">
+      <Filter>소스 파일\week1</Filter>
+    </ClCompile>
+    <ClCompile Include="week2_p1.c">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="week2_p2.c">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="week3_p1.c">
+      <Filter>소스 파일\week3</Filter>
+    </ClCompile>
+    <ClCompile Include="week3_p2.c">
+      <Filter>소스 파일\week3</Filter>
+    </ClCompile>
+    <ClCompile Include="week4_p1.c">
+      <Filter>소스 파일\week4</Filter>
+    </ClCompile>
+    <ClCompile Include="week4_p2.c">
+      <Filter>소스 파일\week4</Filter>
+    </ClCompile>
+    <ClCompile Include="week5_p1.c">
+      <Filter>소스 파일\week5</Filter>
+    </ClCompile>
+    <ClCompile Include="week5_p2.c">
+      <Filter>소스 파일\week5</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
